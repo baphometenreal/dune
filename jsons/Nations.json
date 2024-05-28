@@ -89,5 +89,23 @@
 		"uniqueName": "Purification",
 		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr","Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	{
+		"name": "House Metulli",
+		"leaderName": "Flambert Metulli",
+		"preferredVictoryType": "Time",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
+		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"defeated": "I see for the black hand has been unworthy to serve Kane.",
+		"introduction": "If you would stay out of our way then you might live to tell your tale.",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Purification",
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
+		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr","Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
 ]

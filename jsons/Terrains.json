@@ -1,10 +1,9 @@
 [
 	{
-		"name": "Grassland",
+		"name": "Lowland",
 		"type": "Land",
-		"food": 2,
 		"movementCost": 1,
-        "RGB": [0, 163, 0],
+        "RGB": [210, 201, 178],
         "uniques": []
     }
 ]

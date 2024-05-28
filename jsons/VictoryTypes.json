@@ -1,9 +1,35 @@
 [
     {
         "name": "Domination",
-        "victoryScreenHeader": "Capture all enemy Capitals\nto win!",
+        "victoryScreenHeader": "Capture all cities on Arrakis",
         "milestones": ["Capture all capitals"],
-        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "victoryString": "Arrakis has seen the horrors of war, every house fighting for its spice wants, but you have proven time and time again that you know your way around the desert. Hopefully with this, Arrakis can finally see peace again. With spice production firmly in your grasp, you rise and become emeror of the Known Universe",
+        "defeatString": "Your house has been defeated. Your house has been killed and has been given to the desert to rot, to be forgotten by history, only to be remembered by great historians as yet another fool who dared to challenge the Dune."
+    },
+	{
+        "name": "Diplomatic",
+        "victoryScreenHeader": "Ally with all houses on Arrakis",
+        "milestones": ["Anyone should build [United Nations]", "Win diplomatic vote"],
+        "victoryString": "Your house has been the forerunner of unifying the Known Universe, and Arrakis has shown its willingness to your cause. With this decissive ",
+        "defeatString": "Your house has been defeated. Your house has been ostracized and has been exiled to a far off planet to rot, slowly to become a forgotten people, only to be remembered by great historians as yet another fool who dared to challenge the Dune."
+    },
+    {
+        "name": "Time",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Have highest score after max turns"],
+        "victoryString": "You bided your time, and Arrakis rewards you for your patience. With this wait, the empire",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
-    }
+    },
+	{
+        "name": "Scientific",
+        "victoryScreenHeader": "Complete the research tree",
+        "milestones": [
+            "Build [Apollo Program]", "Add all [spaceship parts] in capital"
+        ],
+        "requiredSpaceshipParts": [
+            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"
+        ],
+        "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a brave new world! Your triumph will be remembered as long as the stars burn in the night sky!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
 ]

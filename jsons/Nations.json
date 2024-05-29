@@ -11,7 +11,7 @@
 		"defeated": "House Atreides may have lost this time, but we always come back stronger.",
 		"introduction": "House Atreides welcomes you.",
 		"tradeRequest": ["We hope this request is reasonable.","We hope this trade is not a burden on you."],
-		"": ["House Atreides welcomes you.","How may house Atreides help?",""]
+		"neutralHello": ["House Atreides welcomes you.","How may house Atreides help?",""],
 		"outerColor": [229,57,53],
 		"innerColor": [38,50,56],
 		"uniqueName": "Atreides",

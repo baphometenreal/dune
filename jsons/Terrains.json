@@ -1,9 +1,17 @@
 [
+	//terrain
 	{
 		"name": "Lowland",
 		"type": "Land",
 		"movementCost": 1,
         "RGB": [210, 201, 178],
         "uniques": []
-    }
+    },
+	//features
+	{
+		"name": "Rocky",
+		"type": "TerrainFeature",
+		"occursOn":["Lowland"],
+		"uniques": ["Rough terrain"]
+	}
 ]
